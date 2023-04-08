@@ -85,7 +85,7 @@
   perspective: 800px;
   inset: 0;
   z-index: 200;
-  position: absolute;
+  position: center;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
