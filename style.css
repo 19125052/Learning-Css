@@ -339,6 +339,7 @@
 }
 
 .noselect {
+  background-color: #181E20;
   -webkit-touch-callout: none;
    /* iOS Safari */
   -webkit-user-select: none;
