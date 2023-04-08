@@ -19,7 +19,7 @@
   align-items: center;
   border-radius: 20px;
   transition: 700ms;
-  background: linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%);
+  background: linear-gradient(43deg, rgb(30, 42, 120) 0%, rgb(255, 46, 76) 46%);
 }
 
 .subtitle {
@@ -99,7 +99,7 @@
 
 #card::before {
   content: '';
-  background: linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%);
+  background: linear-gradient(43deg, rgb(30, 42, 120) 0%, rgb(255, 46, 76) 46%);
   filter: blur(2rem);
   opacity: 30%;
   width: 100%;
